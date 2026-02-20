@@ -1,6 +1,6 @@
-!(public/src/p1.png)
+!(public/p1.png)
 
-!(public/src/p2.png)
+!(publicp2.png)
 
 Highlights:
 
