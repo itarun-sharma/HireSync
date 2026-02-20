@@ -1,6 +1,6 @@
-![Screenshot 1](public/src/p1.png)
+!(public/src/p1.png)
 
-![Screenshot 2](public/src/p2.png)
+!(public/src/p2.png)
 
 Highlights:
 
