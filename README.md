@@ -1,6 +1,6 @@
-!(public/p1.png)
+![Screenshot 1](public/p1.png)
 
-!(publicp2.png)
+![Screenshot 2](public/p2.png)
 
 Highlights:
 
